@@ -1,4 +1,4 @@
-Topic modeling, topic assignment and sentiment analysis
+# Topic modeling, topic assignment and sentiment analysis
 
 
 Most of the data on the web is in some form of free format. This means it's both unstructured and unlabeled, making it challenging to process and analyze. Furthermore, processing it might involve labeling data one document, one text bit, one comment at a time, which is labor intensive, time consuming and not something we're looking forward to.
