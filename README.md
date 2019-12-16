@@ -9,3 +9,7 @@ This project will demo techniques that perform unsupervised learning on a large 
 2.  after the clustering, will do the topic assignment for each comment in the corpus
 
 3.  last step involves analyzing each comment for polarity sentiment and intensity of emotion using an NLTK library called VADER - Valence Aware Dictionary for sEntiment Reasoning
+
+For those who like using enterprise BI tools, here is section of processing and distributing it in PowerBI.
+
+# First of all - why Power BI?
