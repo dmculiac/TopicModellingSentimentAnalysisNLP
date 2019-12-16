@@ -10,7 +10,7 @@ This project will demo techniques that perform unsupervised learning on a large 
 
 3.  last step involves analyzing each comment for polarity sentiment and intensity of emotion using an NLTK library called VADER - Valence Aware Dictionary for sEntiment Reasoning
 
-For those who like using enterprise BI tools, here is section of processing and distributing it in PowerBI.
+For those who like using enterprise BI tools, here is a very modest section of processing and distributing a python script in PowerBI.
 
 # First of all - why Power BI?
 
@@ -30,11 +30,11 @@ Keep in mind, if everything else fails, there's still this:
 =================================================================
 
 
-### "There's a starman waiting in the sky
+#### "There's a starman waiting in the sky
 
-### He'd like to come and meet us
+#### He'd like to come and meet us
 
-### But he thinks he'd blow our minds..."
+#### But he thinks he'd blow our minds..."
 
 
 =====================================================================
