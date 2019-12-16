@@ -25,7 +25,7 @@ To make Power BI python ready go [here](https://docs.microsoft.com/en-us/power-b
 
 To enable matplotlib.pyplot visualization through Power Bi, go [here](https://docs.microsoft.com/en-us/power-bi/desktop-python-visuals).
 
-Keep in mind, if everything else fails, there's still this:
+Keep in mind, if everything else fails, there's still Bowie to save the day... 
 
 ======================================================================
 
@@ -38,6 +38,9 @@ Keep in mind, if everything else fails, there's still this:
 
 
 ======================================================================
+
+or Monty Python...
+
 
 
 # Happy holidays
