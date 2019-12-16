@@ -13,3 +13,23 @@ This project will demo techniques that perform unsupervised learning on a large 
 For those who like using enterprise BI tools, here is section of processing and distributing it in PowerBI.
 
 # First of all - why Power BI?
+
+I asked myself this question and resisted the "heresy" of defecting from matplotlib to a different visualization engine. "What is there to gain?"
+
+Well, what started as a curiosity became a compeling argument with every iteration. I mean, we trust the machines getting better with every epoch. Was that too much to ask of myself?
+
+So, to cut a long story short, the benefit of Power BI is in the instant interactivity: being able to check the quality of a sentiment analysis in "real time", something that Python (as much as I hurt saying this!!!), can't deliver...
+
+To make Power BI python ready go [here](https://docs.microsoft.com/en-us/power-bi/desktop-python-scripts), ignore the first part (I mean you wouldn't be there if this is your first brush with python) and scroll to "Enable Python scripting" part. That's where you learn how to properly connect Power BI with python (Power BI can't read paths so you have to specify the python directory in the PBI "options" menu). Well, a small price to pay...
+
+
+To enable matplotlib.pyplot visualization through Power Bi, go [here](https://docs.microsoft.com/en-us/power-bi/desktop-python-visuals).
+
+Keep in mind, if everything else fails, there's still this:
+
+"There's a starman waiting in the sky
+He'd like to come and meet us
+But he thinks he'd blow our minds..."
+
+Happy holidays
+
