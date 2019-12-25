@@ -39,9 +39,6 @@ Keep in mind, if everything else fails, there's still Bowie to save the day...
 
 ======================================================================
 
-or Monty Python...
-
-
 
 # Happy holidays
 
