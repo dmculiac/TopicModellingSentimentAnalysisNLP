@@ -1,5 +1,9 @@
 # Topic modeling, topic assignment and sentiment analysis
 
+<p align = "center">
+  <img src = "https://blog-assets.hootsuite.com/wp-content/uploads/2024/02/Screen-Shot-2019-04-03-at-9.51.49-AM.png">
+</p>
+
 
 Most of the data on the web is in some form of free format. This means it's both unstructured and unlabeled, making it challenging to process and analyze. Furthermore, processing it might involve labeling data one document, one text bit, one comment at a time, which is labor intensive, time consuming and not something we're looking forward to.
 This project will demo techniques that perform unsupervised learning on a large corpus of unstructured text:
