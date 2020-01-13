@@ -24,3 +24,5 @@ To make Power BI python ready go [here](https://docs.microsoft.com/en-us/power-b
 
 
 To enable matplotlib.pyplot visualization through Power Bi, go [here](https://docs.microsoft.com/en-us/power-bi/desktop-python-visuals).
+
+
